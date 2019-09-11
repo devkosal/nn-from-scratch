@@ -6,5 +6,5 @@ If you intend to use the Airbnb data I used, you can access it [[here]](https://
 
 
 ## Requirements
-Python => 3.6
-numpy => 1.14.5
+- Python => 3.6
+- numpy => 1.14.5
