@@ -1,6 +1,5 @@
 # https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6
 
-
 import numpy as np
 
 # def relu(x):
@@ -18,10 +17,6 @@ x = np.array([[1,2,3],
 
 y = np.array([[10],
              [24]])
-
-# e = np.array([[1,1,1],
-#               [1,2,1],
-#               [1,0,1]])
 
 
 class NueralNetwork:
